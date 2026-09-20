@@ -34,6 +34,9 @@ void Triangle::draw() const
     delete[] top;
 }
 
+// Draws a circle of radius m_radius using ASCII characters '*'.
+// The circle is shifted to the right by m_offset spaces.
+
 void Circle::draw() const
 {
     char* spaces = new char[m_offset + 1];
