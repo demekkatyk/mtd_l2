@@ -1,0 +1,22 @@
+*   ab696f4 Merge pull request #5 from demekkatyk/refactor/comment
+|\  
+| * e1a5e59 docs: add comments to Circle::draw
+|/  
+| * 74a11a7 feat: make m_radius non-const, add setRadius
+|/  
+| *   0483fd1 Merge pull request #4 from demekkatyk/develop
+| |\  
+| |/  
+|/|   
+* |   fc206b3 Merge pull request #2 from demekkatyk/feature/move_figures
+|\ \  
+| * \   7dec283 Merge branch 'develop' into feature/move_figures
+| |\ \  
+| |/ /  
+|/| |   
+* | |   f94ea9e Merge pull request #1 from demekkatyk/refactor/base_figure
+|\ \ \  
+| * \ \   183dbe9 Merge branch 'develop' into refactor/base_figure
+| |\ \ \  
+| |/ / /  
+|/| | |   
