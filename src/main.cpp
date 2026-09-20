@@ -11,6 +11,7 @@ int main()
     Triangle smallTr(7, 4);
     smallTr.draw();
 
+    tr.setOffset(2);   //  добавили эту строку
     tr.draw();
     return 0;
 }
